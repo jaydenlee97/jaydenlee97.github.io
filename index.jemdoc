@@ -1,0 +1,43 @@
+# jemdoc: menu{menu}{index.html}
+= Cong Ma
+
+~~~
+{}{img_left}{figure/Cong_Cancun.jpeg}{alt text}{350}{250}
+I am an assistant professor in the Department of Statistics at the University of Chicago. 
+
+
+
+Previously, I was a postdoctoral researcher at UC~Berkeley, advised by Professor [https://people.eecs.berkeley.edu/~wainwrig/ Martin Wainwright]. I obtained my Ph.D. at Princeton University in 2020, advised by Professor [http://www.princeton.edu/~yc5/ Yuxin Chen] and Professor [https://orfe.princeton.edu/~jqfan/ Jianqing Fan]. Prior to the graduate school, I received my bachelor's degree in Electrical Engineering from Tsinghua University in 2015. \n
+\n
+I am broadly interested in mathematics of data science, reinforcement learning, transfer learning, high-dimensional statistics, convex and nonconvex optimization as well as their applications to neuroscience. \n
+
+
+
+E-mail: /congm/ \[@\] uchicago \[DOT\] edu
+\n
+[https://scholar.google.com/citations?user=IB_jPZ0AAAAJ&hl=en Google Scholar]
+~~~
+
+
+== News
+
+- Our paper on distribution-free uncertainty quantification for matrix completion [Publication/CMC/cmc.pdf Conformalized Matrix Completion] has been accepted to Neurips 2023. 
+
+- A new paper on contrastive learning: [Publication/SSL/ssl.pdf Unraveling Projection Heads in Contrastive Learning:
+Insights from Expansion and Shrinkage].
+
+
+
+- Our paper on tuning-free matrix completion [Publication/SqrtMC/SqrtMC.pdf Optimal Tuning-Free Convex Relaxation for Noisy Matrix Completion] has been accepted to the IEEE Transactions on Information Theory. 
+
+- Our paper on overparameterized matrix recovery: [Publication/Overparam/ScaledGD_Overparam.pdf The Power of Preconditioning in Overparameterized Low-Rank Matrix Sensing] has been accepted to ICML 2023.
+
+
+- Our paper on covariate shift [Publication/CovariateShiftKernel/CovariateShift.pdf Optimally Tackling Covariate Shift in RKHS-Based Nonparametric Regression] has been accepted to the Annals of Statistics. 
+
+
+
+
+
+
+ 
